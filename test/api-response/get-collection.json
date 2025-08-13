@@ -1,0 +1,94 @@
+{
+  "id": 8822,
+  "display_name": "piccolono-il-film",
+  "title": "Piccolino - Il Film - Multilingue",
+  "description": "Piccolino, un'avventura musicale è la storia di un bruco in una casa di campagna che svela 10 famose canzoni italiane, spagnole e inglesi. In doppia lingua (spagnolo / italiano) e con una fusione tra diverse tradizioni popolari, è un'opera che diverte e allo stesso tempo ispira: animazione in stop-motion e riproduzione musicale in uno stile artigianale che può essere facilmente utilizzato come materiale di supporto. per laboratori creativi e progetti educativi nelle scuole, negli asili e a casa! La stessa squadra che ha dato vita a Juan y la Nube (Goya 2015 per il miglior cortometraggio di animazione) e la compagnia Canti Vaganti si sono occupate rispettivamente dell'immagine e della musica di questo lavoro che si distingue per la sua qualità  nel panorama dell'intrattenimento audiovisivo infantile. Piccolino è una produzione di animazione musicale per bambini dai 2 ai 7 anni. Regia e Animazione GIOVANNI MACCELLI Musica BRUNO GULLO y KATELEINE VAN DER MAAS 2016 - Zampano Producciones ",
+  "full_description": "<p><font face=\"Abel, sans-serif\">Piccolino, un'avventura musicale è la storia di un bruco in una casa di campagna che svela 10 famose canzoni italiane, spagnole e inglesi. In doppia lingua (spagnolo / italiano) e con una fusione tra diverse tradizioni popolari, è un'opera che diverte e allo stesso tempo ispira: animazione in stop-motion e riproduzione musicale in uno stile artigianale che può essere facilmente utilizzato come materiale di supporto. per laboratori creativi e progetti educativi nelle scuole, negli asili e a casa! La stessa squadra che ha dato vita a Juan y la Nube (Goya 2015 per il miglior cortometraggio di animazione) e la compagnia Canti Vaganti si sono occupate rispettivamente dell'immagine e della musica di questo lavoro che si distingue per la sua qualità&nbsp; nel panorama dell'intrattenimento audiovisivo infantile. Piccolino è una produzione di animazione musicale per bambini dai 2 ai 7 anni. Regia e Animazione GIOVANNI MACCELLI Musica BRUNO GULLO y KATELEINE VAN DER MAAS 2016 - Zampano Producciones&nbsp;</font>\n</p>",
+  "img_preview": "https://imgs2.teyuto.tv/upload/o_webp/https://storage.teyuto.tv/live/TpvCugfLwbuOZeEQd5uLx3qWJiJvyI1703337435.jpg",
+  "img_preview_vertical": "",
+  "img_preview_background": "https://imgs2.teyuto.tv/upload/o_webp/https://storage.teyuto.tv/live/ujCpFFdy4csHxzxQscOiGnqs4gDoib1703337437.jpg",
+  "img_preview_logo_title": "",
+  "categories": [],
+  "trailer": 43010,
+  "privacy": "public",
+  "views": 0,
+  "show_views": false,
+  "likes_tot": 0,
+  "show_likes": false,
+  "subtitles": [],
+  "prices": [
+    {
+      "id": "8060",
+      "parent": true,
+      "type": "subs",
+      "price": {
+        "priceF": "",
+        "priceW": "",
+        "priceM": "9.99",
+        "priceQ": "",
+        "priceHY": "",
+        "priceY": "",
+        "currency": "eur",
+        "currencySymbol": "€",
+        "daysRent": "",
+        "priceR": ""
+      }
+    }
+  ],
+  "payment_type": null,
+  "access": "ok",
+  "access_case": null,
+  "reminder": 0,
+  "geoblocking": null,
+  "tags": [
+    {
+      "id": 67599,
+      "title": "Zampano Producciones"
+    },
+    {
+      "id": 67600,
+      "title": "Bruno Gullo"
+    },
+    {
+      "id": 67601,
+      "title": "Giovanni Macelli"
+    }
+  ],
+  "directors": [
+    "Giovanni Macelli"
+  ],
+  "actors": [
+    "Bruno Gullo",
+    "KATELEINE VAN DER MAAS"
+  ],
+  "age_restrictions": "G",
+  "original_language": "IT",
+  "full_original_language": "Italy",
+  "year_production": 2018,
+  "next_video_play": {
+    "id": 42991,
+    "title": "Piccolino, una aventura musical (ESP)",
+    "livenow": 0,
+    "ondemand": 1,
+    "description": "Versión española del musical animado que adapta canciones populares italianas, españolas e inglesas a través de las aventuras de un simpático gusano verde. Dirigido y Animado por GIOVANNI MACCELLI Música de CANTI VAGANTI",
+    "saved": 0,
+    "type_element": "ondemand",
+    "access": "ok",
+    "access_case": "32",
+    "type_content": "videos",
+    "preroll": null,
+    "duration": "00:21:21",
+    "duration_seconds": 1281,
+    "last_seen": 0,
+    "remaining_time": 1281
+  },
+  "duration": 2,
+  "seo_title": "[it]Piccolino-film-animazione[/it]",
+  "seo_description": "[it]Piccolino, una avventura musicale è la storia di un bruco in una casa di campagna.[/it]",
+  "show_ads_on_free": true,
+  "video_ids": [
+    42991,
+    34549
+  ],
+  "customfields": []
+}

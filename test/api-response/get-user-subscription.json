@@ -1,0 +1,29 @@
+[
+    {
+        "status": "success",
+        "id": 17032,
+        "title": "Abbonamento Premium (senza pubblicità)",
+        "status_subscription": "canceled",
+        "started_on": "2025-07-31 10:42:50",
+        "canceled": 0,
+        "code": ""
+    },
+    {
+        "status": "success",
+        "id": 17034,
+        "title": "Abbonamento Premium (senza pubblicità)",
+        "status_subscription": "canceled",
+        "started_on": "2025-07-31 11:59:21",
+        "canceled": 0,
+        "code": ""
+    },
+    {
+        "status": "success",
+        "id": 17035,
+        "title": "Abbonamento Premium (senza pubblicità)",
+        "status_subscription": "canceled",
+        "started_on": "2025-07-31 12:01:10",
+        "canceled": 0,
+        "code": ""
+    }
+]
